@@ -89,8 +89,7 @@ Selection sort is an in-place comparison sorting algorithm. It divides the input
 
 ### Files
 
-- `selection_sort.c`
-- `selection_sort.h`
+- `Sorting.c`
 
 ### Bubble Sort
 
@@ -98,8 +97,7 @@ Bubble sort is a simple sorting algorithm that repeatedly steps through the list
 
 ### Files
 
-- `bubble_sort.c`
-- `bubble_sort.h`
+- `Sorting.c`
 
 ### Insertion Sort
 
@@ -107,8 +105,8 @@ Insertion sort is a simple sorting algorithm that builds the final sorted array 
 
 ### Files
 
-- `insertion_sort.c`
-- `insertion_sort.h`
+- `Sorting.c`
+
 
 ## Getting Started
 
